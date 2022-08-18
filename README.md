@@ -1,5 +1,7 @@
 # CONCEITOS FUNDAMENTAIS JAVASCRIPT - CICLO DE VIDA
 
+Resumo das aulas e artigos apresentados nos modulos do curso de JS Expert ministrado pelo grande [Erick Wendel](https://github.com/ErickWendel).
+
 ## Strict Mode
 
 O Strict Mode foi um novo recurso do ECMAScript 5 que permite colocar um programa ou uma função em um contexto operacional “estrito”. Esse contexto estrito impede que certas ações sejam executadas e gera mais exceções. A declaração “use strict”; instrui o navegador a usar o modo Strict, que é um conjunto de recursos reduzido e mais seguro do JavaScript.
@@ -46,7 +48,7 @@ function calculate() {
 calculate()
 ```
 
-Todas as vezes que executamos uma função, usamos a pilha de chamadas para adicionar a função ao topo dessa pilha e após a sua execução liberamos ela é removida dessa pilha, "First in, last out".
+Todas as vezes que executamos uma função, usamos a pilha de chamadas para adicionar a função ao topo dessa pilha e após a sua execução ela é removida dessa pilha, "First in, last out".
 
 E a partir daqui temos outras preocupações como Estouro de Pilha e Vazamentos de memoria que veremos nos proximos modulos do curso.
 

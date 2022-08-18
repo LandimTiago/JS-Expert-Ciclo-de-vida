@@ -4,7 +4,7 @@ VAMOS IMPRIMIR OS DADOS EM UMA TABELA CUSTOMIZADA E SALVAR EM UM ARQUIVO
 
 ## WARNING
 
-Importante lembrar de usar a versão 14 do Node pois existem diferenças nos imports de arquivos Json na versão 18
+Importante lembrar de usar a versão 14.3 do Node pois existem diferenças nos imports de arquivos Json na versão 18
 
 ## Dependecias
 

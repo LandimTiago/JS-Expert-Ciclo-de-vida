@@ -60,8 +60,10 @@ E a partir daqui temos outras preocupações como Estouro de Pilha e Vazamentos 
 
 ## TIPO DE VALOR E TIPO DE REFERÊNCIA
 
-...
-...
-...
+## COERSÃO DE TIPOS E OBJECTS LIFECICLE
 
-### REFERÊNCIAS
+## PROTOTYPE CHAIN - HERANÇA
+
+## ARGUMENTS - ARGUMENTS, THIS, BIND VS CALL VS APPLY
+
+## ECMAScript MODULES - INTRODUÇÃO
